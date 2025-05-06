@@ -1,0 +1,48 @@
+{
+  "templateType": "Generic Landing Page Template",
+  "technologyStack": {
+    "framework": "Next.js (App Router)",
+    "language": "TypeScript",
+    "uiLibrary": "React",
+    "styling": "Tailwind CSS",
+    "components": "shadcn/ui",
+    "buildTool": "Turbopack"
+  },
+  "templatePurpose": {
+    "description": "Clean, modern, and responsive landing page structure",
+    "suitableFor": [
+      "Business websites",
+      "Product landing pages",
+      "Service showcases",
+      "Startup websites",
+      "Marketing campaigns"
+    ]
+  },
+  "keyFeatures": [
+    "Responsive mobile-first design",
+    "Modular component structure",
+    "Accessibility-compliant elements",
+    "Performance optimized",
+    "SEO-friendly structure",
+    "Easy customization",
+    "Modern UI components"
+  ],
+  "templateStructure": [
+    "Header with navigation",
+    "Hero section",
+    "Features grid",
+    "Testimonials carousel",
+    "Pricing comparison",
+    "Contact form",
+    "Footer with links"
+  ],
+  "targetAudience": [
+    "Developers building client websites",
+    "Businesses creating their online presence",
+    "Marketers launching campaign pages",
+    "AI agents generating websites for various use cases"
+  ],
+  "version": "1.0.0",
+  "author": "DreamHost",
+  "license": "MIT"
+}
